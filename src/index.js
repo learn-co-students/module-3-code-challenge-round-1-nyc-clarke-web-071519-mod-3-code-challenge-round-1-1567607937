@@ -72,7 +72,6 @@ ul.addEventListener('click', clickHandler)
     } else if(event.target.className === 'btn btn-info') {
       patchBeerDesc(event.target.parentNode)
     }
-    
   }
 
 
